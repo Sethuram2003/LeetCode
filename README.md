@@ -26,4 +26,8 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sethuram2003/LeetCode/tree/master/0175-combine-two-tables) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sethuram2003/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Array
+|  |
+| ------- |
+| [2350-find-closest-number-to-zero](https://github.com/Sethuram2003/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 <!---LeetCode Topics End-->
