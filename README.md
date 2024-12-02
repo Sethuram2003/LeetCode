@@ -18,3 +18,11 @@ This repository is dedicated to my personal journey of solving LeetCode algorith
 ## Disclaimer
 Solutions represent personal learning and may not always be the most optimal approach. Feedback and alternative solutions are always welcome.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sethuram2003/LeetCode/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
