@@ -30,4 +30,16 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [2350-find-closest-number-to-zero](https://github.com/Sethuram2003/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+## String
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
