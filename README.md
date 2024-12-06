@@ -26,6 +26,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0175-combine-two-tables](https://github.com/Sethuram2003/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sethuram2003/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0585-investments-in-2016](https://github.com/Sethuram2003/LeetCode/tree/master/0585-investments-in-2016) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sethuram2003/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Array
 |  |
