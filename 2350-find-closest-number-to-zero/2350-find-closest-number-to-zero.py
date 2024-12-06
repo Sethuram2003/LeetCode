@@ -24,4 +24,4 @@ class Solution:
             return negative[ng]
         elif len(negative)==0:
             return positive[0]
-            
+        
