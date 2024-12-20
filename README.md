@@ -32,6 +32,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Array
 |  |
 | ------- |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sethuram2003/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2350-find-closest-number-to-zero](https://github.com/Sethuram2003/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## String
 |  |
@@ -45,4 +46,8 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Greedy
+|  |
+| ------- |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sethuram2003/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 <!---LeetCode Topics End-->
