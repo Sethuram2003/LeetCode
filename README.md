@@ -37,6 +37,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## String
 |  |
 | ------- |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -50,4 +51,8 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sethuram2003/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 <!---LeetCode Topics End-->
