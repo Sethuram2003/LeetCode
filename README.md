@@ -35,6 +35,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sethuram2003/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1306-minimum-absolute-difference](https://github.com/Sethuram2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sethuram2003/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2350-find-closest-number-to-zero](https://github.com/Sethuram2003/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -69,6 +70,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
+| [1306-minimum-absolute-difference](https://github.com/Sethuram2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
