@@ -1,7 +1,7 @@
 class Solution:
     def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:
         arr.sort()  
-        min_diff = float('inf')  
+        min_diff = 2000000  
         result = []
         
         for i in range(1, len(arr)):
