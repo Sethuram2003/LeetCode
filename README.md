@@ -57,6 +57,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Bit Manipulation
 |  |
 | ------- |
+| [1054-complement-of-base-10-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
