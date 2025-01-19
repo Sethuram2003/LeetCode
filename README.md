@@ -45,6 +45,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2401-count-asterisks](https://github.com/Sethuram2003/LeetCode/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -65,6 +66,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Binary Search
 |  |
@@ -99,4 +101,8 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sethuram2003/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
