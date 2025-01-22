@@ -49,6 +49,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sethuram2003/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2235-capitalize-the-title](https://github.com/Sethuram2003/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Sethuram2003/LeetCode/tree/master/2401-count-asterisks) |
@@ -57,6 +58,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sethuram2003/LeetCode/tree/master/0022-generate-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -123,4 +125,8 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sethuram2003/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
