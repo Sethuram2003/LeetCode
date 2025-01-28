@@ -38,6 +38,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0978-valid-mountain-array](https://github.com/Sethuram2003/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sethuram2003/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sethuram2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sethuram2003/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -85,6 +86,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sethuram2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
@@ -96,6 +98,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
