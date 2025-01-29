@@ -40,6 +40,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sethuram2003/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sethuram2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1449-print-words-vertically](https://github.com/Sethuram2003/LeetCode/tree/master/1449-print-words-vertically) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sethuram2003/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -54,6 +55,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sethuram2003/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1449-print-words-vertically](https://github.com/Sethuram2003/LeetCode/tree/master/1449-print-words-vertically) |
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2235-capitalize-the-title](https://github.com/Sethuram2003/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Sethuram2003/LeetCode/tree/master/2401-count-asterisks) |
@@ -133,6 +135,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Simulation
 |  |
 | ------- |
+| [1449-print-words-vertically](https://github.com/Sethuram2003/LeetCode/tree/master/1449-print-words-vertically) |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
