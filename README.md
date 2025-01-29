@@ -45,6 +45,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sethuram2003/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/Sethuram2003/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -91,6 +92,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sethuram2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Prefix Sum
 |  |
@@ -103,6 +105,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +134,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Dynamic Programming
 |  |
