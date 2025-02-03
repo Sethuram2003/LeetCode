@@ -43,6 +43,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [1449-print-words-vertically](https://github.com/Sethuram2003/LeetCode/tree/master/1449-print-words-vertically) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sethuram2003/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sethuram2003/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -131,6 +132,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Matrix
 |  |
 | ------- |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
