@@ -50,6 +50,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2350-find-closest-number-to-zero](https://github.com/Sethuram2003/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sethuram2003/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## String
 |  |
@@ -109,6 +110,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sethuram2003/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,4 +147,8 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sethuram2003/LeetCode/tree/master/0022-generate-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sethuram2003/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
