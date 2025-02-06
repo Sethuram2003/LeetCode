@@ -57,6 +57,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sethuram2003/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Sethuram2003/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1449-print-words-vertically](https://github.com/Sethuram2003/LeetCode/tree/master/1449-print-words-vertically) |
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2235-capitalize-the-title](https://github.com/Sethuram2003/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -83,6 +84,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Sethuram2003/LeetCode/tree/master/0541-reverse-string-ii) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Binary Search
 |  |
