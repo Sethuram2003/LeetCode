@@ -44,6 +44,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sethuram2003/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sethuram2003/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Sethuram2003/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
