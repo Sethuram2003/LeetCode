@@ -62,6 +62,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [1449-print-words-vertically](https://github.com/Sethuram2003/LeetCode/tree/master/1449-print-words-vertically) |
 | [1894-merge-strings-alternately](https://github.com/Sethuram2003/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sethuram2003/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2235-capitalize-the-title](https://github.com/Sethuram2003/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2401-count-asterisks](https://github.com/Sethuram2003/LeetCode/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -114,6 +115,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sethuram2003/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sethuram2003/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 ## Divide and Conquer
@@ -125,6 +127,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sethuram2003/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## Math
 |  |
 | ------- |
