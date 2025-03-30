@@ -45,6 +45,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Sethuram2003/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Sethuram2003/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sethuram2003/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Sethuram2003/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -116,6 +117,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Sethuram2003/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Sethuram2003/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Sethuram2003/LeetCode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
