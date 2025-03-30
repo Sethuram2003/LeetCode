@@ -37,6 +37,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0283-move-zeroes) |
 | [0978-valid-mountain-array](https://github.com/Sethuram2003/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sethuram2003/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -91,6 +92,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Sethuram2003/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/Sethuram2003/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
