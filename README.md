@@ -35,6 +35,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0978-valid-mountain-array](https://github.com/Sethuram2003/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -89,6 +90,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/Sethuram2003/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/Sethuram2003/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -136,6 +138,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0009-palindrome-number](https://github.com/Sethuram2003/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sethuram2003/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Sethuram2003/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sethuram2003/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
