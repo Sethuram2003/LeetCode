@@ -37,6 +37,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0283-move-zeroes) |
 | [0978-valid-mountain-array](https://github.com/Sethuram2003/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -79,6 +80,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
@@ -100,12 +102,14 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sethuram2003/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Sethuram2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sethuram2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -119,6 +123,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Sethuram2003/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
@@ -141,6 +146,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0009-palindrome-number](https://github.com/Sethuram2003/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sethuram2003/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Sethuram2003/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sethuram2003/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
