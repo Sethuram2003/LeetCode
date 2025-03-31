@@ -34,6 +34,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sethuram2003/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sethuram2003/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Sethuram2003/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
