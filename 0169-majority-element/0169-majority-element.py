@@ -8,9 +8,10 @@ class Solution(object):
         ans={}
         count=0
         for num in nums:
-            ans[num]=0
-        for num in nums:
-            ans[num]=1+ans[num]
+            if num in ans.keys():
+                ans[num]=1+ans[num]
+            else:
+                ans[num]=0
         maax=0
         for num in nums:
             if ans[num]>maax:
