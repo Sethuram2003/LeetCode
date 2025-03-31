@@ -35,6 +35,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sethuram2003/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
@@ -96,6 +97,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Sethuram2003/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -110,6 +112,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
