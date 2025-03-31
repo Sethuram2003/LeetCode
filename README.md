@@ -34,6 +34,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Sethuram2003/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
@@ -123,6 +124,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
