@@ -5,18 +5,18 @@ class Solution(object):
         :rtype: int
         """
 
-        ans={}
         count=0
+        ele=nums[0]
+
         for num in nums:
-            if num in ans.keys():
-                ans[num]=1+ans[num]
+            if count==0:
+                ele=num
+            if ele==num:
+                count+=1
             else:
-                ans[num]=0
-        maax=0
-        for num in nums:
-            if ans[num]>maax:
-                maax=ans[num]
-        return(ans.keys()[ans.values().index(maax)])
+                count-=1
+        return ele
+
 
 
         
