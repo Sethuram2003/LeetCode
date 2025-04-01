@@ -6,7 +6,6 @@ class Solution(object):
         """
 
         count=0
-        ele=nums[0]
 
         for num in nums:
             if count==0:
