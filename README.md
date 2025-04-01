@@ -35,6 +35,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sethuram2003/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
@@ -140,6 +141,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -177,6 +179,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sethuram2003/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
 ## Enumeration
 |  |
 | ------- |
