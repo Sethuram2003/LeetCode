@@ -37,6 +37,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Sethuram2003/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sethuram2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sethuram2003/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -135,6 +136,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sethuram2003/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
@@ -173,6 +175,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Simulation
