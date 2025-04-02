@@ -36,6 +36,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Sethuram2003/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Sethuram2003/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
@@ -162,6 +163,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sethuram2003/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Sethuram2003/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Sethuram2003/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
@@ -175,6 +177,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sethuram2003/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
