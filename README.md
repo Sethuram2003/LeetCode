@@ -35,6 +35,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sethuram2003/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Sethuram2003/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sethuram2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -100,6 +101,7 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sethuram2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Sethuram2003/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sethuram2003/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0283-move-zeroes) |
