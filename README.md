@@ -49,6 +49,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Sethuram2003/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0978-valid-mountain-array](https://github.com/Sethuram2003/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sethuram2003/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -133,6 +134,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sethuram2003/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
@@ -143,6 +145,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sethuram2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sethuram2003/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1256-rank-transform-of-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sethuram2003/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Sethuram2003/LeetCode/tree/master/1760-check-array-formation-through-concatenation) |
