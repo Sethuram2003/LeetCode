@@ -38,6 +38,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0031-next-permutation](https://github.com/Sethuram2003/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Sethuram2003/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sethuram2003/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sethuram2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -178,12 +179,14 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sethuram2003/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Sethuram2003/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [1449-print-words-vertically](https://github.com/Sethuram2003/LeetCode/tree/master/1449-print-words-vertically) |
 | [2058-concatenation-of-array](https://github.com/Sethuram2003/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sethuram2003/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
