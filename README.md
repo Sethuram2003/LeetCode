@@ -54,6 +54,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0229-majority-element-ii](https://github.com/Sethuram2003/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sethuram2003/LeetCode/tree/master/0283-move-zeroes) |
+| [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sethuram2003/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0978-valid-mountain-array](https://github.com/Sethuram2003/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -126,6 +127,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0069-sqrtx](https://github.com/Sethuram2003/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
@@ -169,6 +171,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sethuram2003/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -223,4 +226,20 @@ Solutions represent personal learning and may not always be the most optimal app
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sethuram2003/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
