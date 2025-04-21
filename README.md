@@ -38,6 +38,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0015-3sum](https://github.com/Sethuram2003/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sethuram2003/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sethuram2003/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Sethuram2003/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sethuram2003/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sethuram2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sethuram2003/LeetCode/tree/master/0054-spiral-matrix) |
@@ -127,6 +128,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sethuram2003/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sethuram2003/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sethuram2003/LeetCode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
