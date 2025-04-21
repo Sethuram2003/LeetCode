@@ -38,6 +38,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0015-3sum](https://github.com/Sethuram2003/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sethuram2003/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sethuram2003/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sethuram2003/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sethuram2003/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sethuram2003/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sethuram2003/LeetCode/tree/master/0048-rotate-image) |
@@ -129,6 +130,7 @@ Solutions represent personal learning and may not always be the most optimal app
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sethuram2003/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sethuram2003/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sethuram2003/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sethuram2003/LeetCode/tree/master/0069-sqrtx) |
