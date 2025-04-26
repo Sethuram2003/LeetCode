@@ -64,6 +64,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0540-single-element-in-a-sorted-array](https://github.com/Sethuram2003/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sethuram2003/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sethuram2003/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Sethuram2003/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0978-valid-mountain-array](https://github.com/Sethuram2003/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sethuram2003/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Sethuram2003/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -143,6 +144,7 @@ Solutions represent personal learning and may not always be the most optimal app
 | [0493-reverse-pairs](https://github.com/Sethuram2003/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sethuram2003/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Sethuram2003/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Sethuram2003/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Sethuram2003/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
